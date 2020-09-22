@@ -12,7 +12,7 @@ La seconde est pour pouvoir s'entraider. Chacun d'entre nous a ses spécialités
 
 ## Qui peut push ?
 
-Tout le monde peut push, envoyez moi juste votre pseudo github sur Messenger (Augustin BAR) afin que je vous rajoute en tant que collaborateur.
+On va fonctionner avec un système de pull request.
 
 ## Que puis-je push ?
 
