@@ -18,6 +18,7 @@ Tout le monde peut push, envoyez moi juste votre pseudo github sur Messenger (Au
 
 Vous pouvez push sur le repo tous les documents de cours (qui ne sont pas déjà sur le repo) ainsi que vos procuctions perso.
 Si vous pushez un document personnel, faites attention à bien le placer ainsi qu'à inscrire le nom de l'auteur dans le titre du fichier (pour pouvoir plus facilement demander de l'aide et distinguer plus facilement le code de chaque participant).
+Evidemment, je compte sur chacun d'entre vous pour ne pas supprimer/altérer les fichiers des camarades (même si ca reste récupérable sur git).
 
 
 __**Merci !**__
